@@ -35,3 +35,9 @@ and population modeling
   does ROC analysis (mfROC for a single neuron or mfROCpop for populations)
   This is describing the population level analysis, but samsmodlong_noActX.m
   does all of this for a single neuron.
+  
+  
+  3) Drift diffusion model (jupyter notebook) mostly uses code from de Gee et al. (2021, eLife)
+  but some was repurposed. Links to de Gee et al's code and papers are in the jupyter notebook "Chase_discrimination_DDM_clean2"
+  
+
