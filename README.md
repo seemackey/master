@@ -20,7 +20,7 @@ Mackey et al. (2022)
 2) "MFdisc" and "samsmodlong" scripts for neuronal discrimination analysis
 and population modeling
 
-  Preprint: (TBD)
+  Preprint: https://doi.org/10.1101/2022.08.05.502987
 
   Uses: samsmodlong_pooler_looper,
         samsmodlong_pooler_fxn,
