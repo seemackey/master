@@ -1,6 +1,7 @@
 # master
 
-Guide to seemackey repository on github
+Guide to master repository. These scripts and functions were mostly written for macaque behavioral data and single-unit data 
+from my time in the Ramachandran Lab (e.g. 2018-2022).
 
 1) "CP" scripts for choice probability/detect probability analysis from
 Mackey et al. (2022)
@@ -47,8 +48,6 @@ and population modeling using single-unit responses to amplitude modulated noise
   
   3) Drift diffusion model (jupyter notebook) mostly uses code from de Gee et al. (2021, eLife)
   but some was repurposed. Links to de Gee et al's code and papers are in the jupyter notebook "Chase_discrimination_DDM_clean2"
-  
-  
-  4) the repository for local field potential analysis (among a few other things) has its own readme 
+ 
   
 
