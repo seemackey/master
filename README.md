@@ -11,7 +11,9 @@ Mackey et al. (2022)
   J Neurophysiol paper here:
   https://doi.org/10.1152/jn.00439.2022
 
-  Uses: CP_Analysis_ScriptCM,
+  Uses: 
+        
+        CP_Analysis_ScriptCM,
         CP_Calc,
         CP_ROC
 
@@ -25,7 +27,9 @@ and population modeling using single-unit responses to amplitude modulated noise
 
   Preprint: https://doi.org/10.1101/2022.08.05.502987
 
-  Uses: samsmodlong_pooler_looper,
+  Uses: 
+  
+        samsmodlong_pooler_looper,
         samsmodlong_pooler_fxn,
         mfSort,
         MTF.m,
@@ -43,5 +47,8 @@ and population modeling using single-unit responses to amplitude modulated noise
   
   3) Drift diffusion model (jupyter notebook) mostly uses code from de Gee et al. (2021, eLife)
   but some was repurposed. Links to de Gee et al's code and papers are in the jupyter notebook "Chase_discrimination_DDM_clean2"
+  
+  
+  4) the repository for local field potential analysis (among a few other things) has its own readme 
   
 
