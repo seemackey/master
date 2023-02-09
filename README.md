@@ -27,7 +27,7 @@ and population modeling
         mfSort,
         MTF.m,
         mfROC or mfROC_pop,
-        and trimmer.m if the duration is less than 500 ms.
+        and (!!OPTIONAL!!) trimmer.m if the duration is less than 500 ms, which can trim response to nearest AM trough.
 
   Shell script is samsmodlong_pooler_looper.m, which imports data and runs
   samsmodlong_pooler_fxn - this function uses mfSort.m and MTF.m to pick out
